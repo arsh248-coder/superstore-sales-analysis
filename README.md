@@ -44,15 +44,12 @@ The focus is on **business insights and data-driven decision making**, not just 
 
 ## 📉 Dashboard Preview (Tableau)
 📁 Located in: `visuals/dashboard.png`
-
-![Dashboard Preview](visuals/dashboard.png)
-
 ---
 
 ## 🛠 Tools & Libraries
 - Python (`pandas`, `matplotlib`, `seaborn`, `numpy`)
 - Jupyter Notebook
-- Tableau / Power BI (data visualization)
+- Tableau (data visualization)
 
 ---
 
