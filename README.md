@@ -14,35 +14,7 @@ The focus is on **business insights and data-driven decision making**, not just 
 
 ---
 
-## 📁 Project Structure
-superstore-sales-analysis/
-│
-├─ data/
-│ ├─ raw/
-│ │ └─ superstore_sales.csv # original dataset (unchanged)
-│ │
-│ ├─ processed/ # analysis outputs
-│ │ ├─ monthly_sales.csv
-│ │ ├─ avg_sales_per_year.csv
-│ │ ├─ avg_sales_per_year_region.csv
-│ │ ├─ top_products_by_region.csv
-│ │ ├─ top10_high_sales_low_discount.csv
-│ │ ├─ top_customers_with_delivery.csv
-│ │ ├─ bottom_customers_with_delivery.csv
-│ │ └─ late_summary.csv
-│
-├─ notebooks/
-│ └─ Superstore_Sales_Analysis.ipynb
-│
-├─ visuals/
-│ └─ dashboard.png # Tableau dashboard export
-│
-└─ README.md
 
-yaml
-Copy code
-
----
 
 ## 📊 Included Processed Files (Why They Matter)
 | File Name                            | Purpose / Insight Type                     |
